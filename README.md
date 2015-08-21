@@ -2,6 +2,7 @@ PiPhone
 =======
 
 forked from Climberhunt
+on tim's branch
 
 PiPhone - DIY Cellphone based on Raspberry Pi and Adafruit PiTFT by [David Hunt](http://www.davidhunt.ie) 
 
